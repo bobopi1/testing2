@@ -26,3 +26,4 @@ if uploaded_file is not None:
     ax.set_xlabel(column_to_plot_x)
     ax.set_ylabel(column_to_plot_y)
     st.pyplot(fig)
+
